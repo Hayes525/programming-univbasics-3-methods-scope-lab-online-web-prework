@@ -9,4 +9,6 @@ def toadstool
   puts status
 end
 def link 
-  status = 
+  phrase = "It's Dangerous To Go Alone! Take This."
+  puts phrase
+end
